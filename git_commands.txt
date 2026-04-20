@@ -1,6 +1,6 @@
   Id CommandLine                                                                                           
   -- -----------                                                                                           
-   1 try { . c:\Users\gsaur\AppData\Local\Programs\Microsoft VS Cod"e\560a9dba96\resources\app\out\vs\wo...
+   1 try { . c:\Users\gsaur\AppData\
    2 git pull origin main                                                                                  
    3 git push origin main                                                                                  
    4 git push origin master                                                                                
@@ -8,8 +8,7 @@
    6 git init                                                                                              
    7 git push origin main                                                                                  
    8 git push origin master                                                                                
-   9 git remote add origin https://github.com/Saurabh-CEH/git-demo.git                                     
-  10 git remote set-url 
+   9 git remote add origin https://github.com/Saurabh-CEH/git-demo.git                                    
   11 git push origin master                                                                                
   12 git push origin main                                                                                  
   13 git push origin main                                                                                  
